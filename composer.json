@@ -1,0 +1,17 @@
+{
+    "name": "treinaweb/php-composer-projeto-final",
+    "description": "Projeto final do curso de composer da Treinaweb",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Elton Fonseca",
+            "email": "elton869@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "aplicacao/"
+        }
+    }
+}
